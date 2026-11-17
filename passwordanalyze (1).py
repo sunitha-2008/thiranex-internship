@@ -1,5 +1,5 @@
 # Password Strength Analyzer
-# Developed by: [Your Name]
+# Developed by: [Sunitha B]
 # Description: Evaluates the strength of user-entered passwords based on length, character variety, and common patterns.
 
 import re
